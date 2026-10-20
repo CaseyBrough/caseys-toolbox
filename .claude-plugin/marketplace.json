@@ -1,0 +1,5 @@
+{
+  "name": "caseys-toolbox",
+  "owner": { "name": "Casey O'Farrell" },
+  "plugins": [{ "name": "caseys-toolbox", "source": "./", "description": "Reprompt any rough idea into a clear prompt, and let auto model pick Haiku, Sonnet or Opus for each prompt." }]
+}
